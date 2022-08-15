@@ -1,4 +1,4 @@
 # Maiyo-Interiors-Website
-This is an interior design website.
-I am using Github for version control of the website.
+This is an interior design website.<br/>
+I am using Github for version control of the website.</br>
 Here is the link to the website: ene221-0094-2017.netlify.app
